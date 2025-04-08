@@ -12,7 +12,7 @@ body{
 .container{
     height: 50vh;
     width: 50vh;
-    background-image: url('/assets/bgwallpaper.jpg');
+    background-image: url('../assets/bgwallpaper.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -29,7 +29,7 @@ body{
 #clock{
     height: 100%;
     width: 100%;
-    background-image: url('/assets/clockface.png');
+    background-image: url('../assets/clockface.png');
     background-size: cover;
     background-position: center;
     display: flex;
